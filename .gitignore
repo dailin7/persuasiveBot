@@ -1,0 +1,7 @@
+# backend
+/backend/persuasivechatbot-deccc-firebase-adminsdk.json
+/backend/constants.yaml
+
+# frontend
+/frontend/.next/
+/frontend/node_modules/

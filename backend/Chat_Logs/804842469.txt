@@ -1,0 +1,7 @@
+PersuasiveHealthBot, chanchojack
+chanchojack,2022-12-15 17:27:54+00:00,running some tests to upload to github
+chanchojack,2022-12-15 17:28:15+00:00,bot currently records chat log based on chat id and stores all users in the chat on the first line
+chanchojack,2022-12-15 17:28:37+00:00,no message has prompted a bot response yet, but the next one will
+chanchojack,2022-12-15 17:28:41+00:00,alcohol helps covid
+PersuasiveHealthBot,2022-12-15 17:28:41+00:00,Hello Sean, what you said is untrue. Visit the link for the relevant factual information: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters#alcohol
+chanchojack,2022-12-15 17:28:56+00:00,bot sent the message as a reply to my message

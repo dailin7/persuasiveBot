@@ -1,0 +1,28 @@
+name: agent2
+channels:
+  - anaconda
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - Flask
+  - PyYAML
+  - python=3.8
+  - numpy
+  - termcolor
+  - ipdb
+  - pytorch==1.11.0
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - sentence-transformers
+  - spacy
+  - hydra-core
+  - gensim
+  - bitarray
+  - sacrebleu
+  - pip
+  - pip:
+    - colored-traceback
+    - python-telegram-bot==12.0.0b1
+    - git+https://github.com/oborchers/Fast_Sentence_Embeddings

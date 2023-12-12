@@ -1,0 +1,3 @@
+PersuasiveHealthBot, 6398852775
+6398852775,2023-09-12 17:50:14,covid is fake
+PersuasiveHealthBot,2023-09-12 17:50:14,Hello J. I think you would really appreciate this link containing relevant factual information: https://www.poynter.org/?ifcn_misinformation=coronavirus-epidemic-in-poland

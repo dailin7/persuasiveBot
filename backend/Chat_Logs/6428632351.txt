@@ -1,0 +1,13 @@
+PersuasiveHealthBot, 6428632351
+6428632351,2023-09-12 13:22:36,covid is a illness
+PersuasiveHealthBot,2023-09-12 13:22:36,No myth had a strong enough match
+6428632351,2023-09-12 13:23:06,covid is good for human body
+PersuasiveHealthBot,2023-09-12 13:23:06,No myth had a strong enough match
+6428632351,2023-09-12 13:23:45,hi
+PersuasiveHealthBot,2023-09-12 13:23:45,No myth had a strong enough match
+6428632351,2023-09-12 17:54:01,covid is bad
+PersuasiveHealthBot,2023-09-12 17:54:01,No myth had a strong enough match
+6428632351,2023-09-12 17:54:07,covid is good
+PersuasiveHealthBot,2023-09-12 17:54:07,No myth had a strong enough match
+6428632351,2023-09-12 17:54:15,covid is fake
+PersuasiveHealthBot,2023-09-12 17:54:15,Hello Dailin. I think you would really appreciate this link containing relevant factual information: https://www.forbes.com/sites/johnscottlewinski/2020/04/21/poland-takes-on-covid-19-phony-news-with-fakehunter-system/

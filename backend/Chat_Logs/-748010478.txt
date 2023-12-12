@@ -1,0 +1,14 @@
+PersuasiveHealthBot, chanchojack, 5916215973
+chanchojack,2022-12-15 17:29:14+00:00,i created another telegram account for testing
+chanchojack,2022-12-15 17:29:35+00:00,this is a new group i created with the bot myself and one other account
+chanchojack,2022-12-15 17:29:54+00:00,say something other account
+5916215973 has sent there first message
+5916215973,2022-12-15 17:30:00+00:00,hi
+5916215973,2022-12-15 17:30:06+00:00,this is still me
+chanchojack,2022-12-15 17:30:21+00:00,the chatlog records a person's first message and adds them to the first line
+chanchojack,2022-12-15 17:30:30+00:00,lets get the bot to say something now
+5916215973,2022-12-15 17:30:37+00:00,cold weather covid
+PersuasiveHealthBot,2022-12-15 17:30:37+00:00,Hello joe, what you said is untrue. Visit the link for the relevant factual information: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters#cold-weather
+chanchojack,2022-12-15 17:30:45+00:00,sent the message as a reply
+chanchojack,2022-12-15 17:30:54+00:00,everything seems to work as desired
+chanchojack,2022-12-15 17:31:17+00:00,oh yea, my other account doesn't have a username so the chat log falls back to user id
