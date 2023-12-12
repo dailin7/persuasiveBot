@@ -1,4 +1,4 @@
-## Install (New)
+## Install
 Install the dependencies with [Anaconda](https://www.anaconda.com/products/individual) and activate the environment `agent` with
 
 ```
